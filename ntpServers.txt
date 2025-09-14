@@ -2,7 +2,7 @@ time.apple.com
 time1.apple.com
 time2.apple.com
 time3.apple.com
-time4.apple.com
+time4.apple.com  https://symless.com/synergy/download/package/synergy-personal-v3/ubuntu-24.10/synergy-3.3.1-linux-noble-x64.deb
 time5.apple.com
 time6.apple.com
 time7.apple.com
@@ -249,4 +249,5 @@ http://www.pool.ntp.org/zone/north-america
 http://www.pool.ntp.org/zone/oceania
 http://www.pool.ntp.org/zone/south-america
 https://time.nl/
+
 https://time.nl/index_en.html
